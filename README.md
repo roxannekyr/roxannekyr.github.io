@@ -1,4 +1,6 @@
-# Deploying Roxani's portfolio site (free)
+<!--
+
+# Roxani Kyritsi portfolio website 
 
 This folder is a ready-to-host static website:
 
@@ -7,7 +9,7 @@ This folder is a ready-to-host static website:
 
 No build step, no server code. Any static host works.
 
-## Option A — GitHub Pages (recommended, free)
+## GitHub Pages
 
 Ask Claude Code:
 
@@ -27,3 +29,5 @@ Drag-and-drop this folder in their dashboard, or ask Claude Code to run their CL
 
 - Keep `assets/` next to `index.html` — the screenshots are loaded relatively.
 - To update the site later, replace `index.html` with a fresh export and push again.
+
+-->
