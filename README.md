@@ -9,9 +9,9 @@ This folder is a ready-to-host static website:
 
 No build step, no server code. Any static host works.
 
-## GitHub Pages
+## Option A - GitHub Pages (free)
 
-Ask Claude Code:
+Claude Code prompt:
 
 > "Deploy the contents of this folder to GitHub Pages on my account (roxannekyr). Create a public repo named `portfolio`, push index.html and assets/, and enable Pages from the main branch root."
 
