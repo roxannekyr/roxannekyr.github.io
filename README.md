@@ -1,4 +1,4 @@
-
+<!--
 
 # Roxani Kyritsi portfolio website 
 
@@ -19,7 +19,7 @@ Manual steps if you prefer:
 2. Put `index.html` and `assets/` at the repo root and push.
 3. Repo Settings → Pages → Source: `main` branch, `/ (root)` → Save.
 4. Site goes live at `https://roxannekyr.github.io/portfolio/` (or `https://roxannekyr.github.io/`).
-<!--
+
 ## Option B — Netlify / Vercel / Cloudflare Pages (also free)
 
 Drag-and-drop this folder in their dashboard, or ask Claude Code to run their CLI (`netlify deploy`, `vercel`, `wrangler pages deploy .`).
